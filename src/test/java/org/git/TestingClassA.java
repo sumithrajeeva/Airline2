@@ -13,4 +13,16 @@ private void park3() {
 	
 
 }
+private void mall1() {
+	
+
+}
+private void mall2() {
+	
+
+}
+private void mall3() {
+	
+
+}
 }
